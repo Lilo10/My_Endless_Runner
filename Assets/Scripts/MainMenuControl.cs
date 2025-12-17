@@ -42,7 +42,7 @@ public class MainMenuControl : MonoBehaviour
         buttonSelect.Play();
         FadeOut.SetActive(true);
         yield return new WaitForSeconds(1);
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     IEnumerator AnimCam()

@@ -11,6 +11,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EcoSprint.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 93667d926e348904395a4a2f4b3d4972
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 3207cebf018dc084198e1cde3ec70020
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
